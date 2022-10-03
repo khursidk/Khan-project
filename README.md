@@ -1,8 +1,7 @@
 # Khan-project
-The frontend application needs to be implemented using HTML, CSS, and JavaScript.
+The frontend application implemented using HTML, CSS, and JavaScript.
 On the homepage show a navbar on the header part and other pieces of information on the
-body part
-• Home Page will have the following Sections:
+body part .Home Page will have the following Sections:
 ◦ About
 ◦ Skills
 ◦ Projects
